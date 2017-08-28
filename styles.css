@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: #F2F2F2;
+}
+p {
+    color: #6A6969;
+}
+
+div.scrollmenu {
+    background-color: #6A6969;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: #FFBC2F;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: white;
+}
